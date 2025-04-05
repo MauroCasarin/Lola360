@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<panorama apprev="18080" appversion="6.1.13" id="node1">
+  <input levelingpitch="0" levelingroll="0" levelbias="0.400" height="2048" overlap="1" width="2048" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg">
+    <level preload="0" height="2048" width="2048" predecode="0"/>
+    <level preload="0" height="1024" width="1024" predecode="0"/>
+    <level preload="0" height="512" width="512" predecode="0"/>
+    <level preload="1" height="256" width="256" predecode="1"/>
+    <preview strip="1" color="0x808080"/>
+  </input>
+  <view pannorth="0" fovmode="0">
+    <start pan="-92.4755" fov="62.8798" tilt="-4.8043" projection="4"/>
+    <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+    <min pan="0" fovpixel="2" tilt="-90"/>
+    <max pan="360" fov="120" scaletofit="1" fovstereographic="270" tilt="90" fovfisheye="360"/>
+  </view>
+  <userdata comment="" nodeid="node1" author="" customnodeid="" tags="360" longitude="" datetime="" heading="0" description="" source="" latitude="" info="" title="" copyright=""/>
+  <hotspots wordwrap="1" height="20" width="180">
+    <label bordercolor="0x000000" enabled="1" wordwrap="1" background="1" textalpha="1" border="1" height="20" width="180" borderalpha="1" backgroundalpha="1" borderradius="1" textcolor="0x000000" backgroundcolor="0xffffff"/>
+    <polystyle bordercolor="0x0000ff" mode="0" handcursor="1" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+    <polyhotspot url="https://www.instagram.com/lolapalupulo/" description="" id="Poly01" title="https://www.instagram.com/lolapalupulo/" target="_blank">
+      <polystring>-86.37/-1.56|-86.31/-6.55|-95.35/-6.61|-95.16/-1.27</polystring>
+    </polyhotspot>
+    <polyhotspot url="https://maurocasarin.github.io/Lola-Game/" description="" id="Poly02" title="LOLA GAME" target="_blank">
+      <polystring>-265.9/13.38|-259.57/10.44|-258.05/2.8|-261.18/-3.94|-266.88/-6.4|-276.09/-2.18|-278.98/3.05|-282.07/5.5|-280.92/10.53|-275.53/14.19</polystring>
+    </polyhotspot>
+    <polyhotspot url="https://www.youtube.com/shorts/OGypQWcwGZw" description="" id="Poly05" title="Proxima Feria" target="_blank">
+      <polystring>-144.03/-6.8|-124.99/-9.44|-130.35/-10.86|-150.14/-7.52</polystring>
+    </polyhotspot>
+    <polyhotspot url="https://www.youtube.com/shorts/OGypQWcwGZw" description="" id="Poly06" title="Proxima Feria" target="_blank">
+      <polystring>-49.6/-10.17|-55.59/-8.78|-38.35/-6.47|-32.7/-7.12</polystring>
+    </polyhotspot>
+  </hotspots>
+  <media>
+    <image pan="-94.480" clickmode="1" fov="9.290" height="2451" id="Element01" stretch="1.000" handcursor="1" width="2624" tilt="12.750" roty="0.000" rotx="0.000" rotz="0.000">
+      <source url="media/LOLA PALUPULO A Izquierda_Log a Izquiera.png"/>
+    </image>
+    <image pan="-89.620" clickmode="1" fov="4.290" height="1920" id="Element02" stretch="1.000" handcursor="1" width="1536" tilt="3.760" roty="0.000" rotx="0.000" rotz="0.000">
+      <source url="media/Interior.jpg"/>
+    </image>
+    <video loop="1" tilt="2.220" fov="15.860" height="1920" pan="-356.300" stretch="1.000" pansize="10.000" level="1.000" startmutedmobile="1" mode="3" rotz="0.000" nodechangekeep="0" id="Element03" width="1080" handcursor="1" rotx="0.000" clickmode="2" field="90.000" ambientlevel="0.000" roty="0.000" tiltsize="10.000">
+      <source url="media/Lola Pista.mp4"/>
+    </video>
+    <video loop="1" tilt="-0.460" fov="17.670" height="1350" pan="-202.210" stretch="1.000" pansize="10.000" level="1.000" startmutedmobile="1" mode="3" rotz="0.000" nodechangekeep="0" id="Element04" width="1080" handcursor="1" rotx="0.000" clickmode="2" field="90.000" ambientlevel="0.000" roty="0.000" tiltsize="10.000">
+      <source url="media/Salta birras md.mp4"/>
+    </video>
+  </media>
+  <transition enabled="1" softedge="0" zoomfov="20" zoomin="0" blendcolor="0x000000" zoomafteroutfov="20" zoomafterinfov="90" blendtime="1" zoomspeed="2" zoomout="0" zoomoutpause="1" type="crossdissolve"/>
+  <flyintransition speed="2.00" enabled="1"/>
+  <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+  <control speedwheel="1" lockedmouse="0" dblclickfullscreen="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" contextfullscreen="1" contextvr="1" hideabout="0" rubberband="0" lockedkeyboardzoom="0" sensitivity="8" contextprojections="0" lockedkeyboard="0"/>
+</panorama>
