@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<panorama id="node1" appversion="6.1.13" apprev="18080">
+  <input leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" height="2048" leveltilesize="510" levelingroll="0" width="2048" overlap="1" levelingpitch="0" levelbiashidpi="1.000">
+    <level predecode="0" height="2048" width="2048" preload="0"/>
+    <level predecode="0" height="1024" width="1024" preload="0"/>
+    <level predecode="0" height="512" width="512" preload="0"/>
+    <level predecode="1" height="256" width="256" preload="1"/>
+    <preview color="0x808080" strip="1"/>
+  </input>
+  <view pannorth="0" fovmode="0">
+    <start pan="-92.4755" fov="62.8798" tilt="-4.8043" projection="4"/>
+    <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+    <min pan="-180" tilt="-57.5184" fovpixel="2"/>
+    <max fovfisheye="360" pan="180" fov="120" fovstereographic="270" tilt="57.5184"/>
+  </view>
+  <userdata title="" latitude="" source="" info="" description="" author="" datetime="" heading="0" comment="" longitude="" nodeid="node1" customnodeid="" copyright="" tags="360"/>
+  <hotspots height="20" width="180" wordwrap="1">
+    <label enabled="1" textcolor="0x000000" bordercolor="0x000000" textalpha="1" borderalpha="1" border="1" height="20" background="1" width="180" borderradius="1" backgroundalpha="1" wordwrap="1" backgroundcolor="0xffffff"/>
+    <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+    <polyhotspot title="https://www.instagram.com/lolapalupulo/" id="Poly01" description="" target="_blank" url="https://www.instagram.com/lolapalupulo/">
+      <polystring>-86.37/-1.56|-86.34/-9.26|-93.95/-8.87|-93.52/-1.55</polystring>
+    </polyhotspot>
+    <polyhotspot title="LOLA GAME" id="Poly02" description="" target="_blank" url="https://maurocasarin.github.io/Lola-Game/">
+      <polystring>-265.9/13.38|-259.57/10.44|-258.05/2.8|-261.18/-3.94|-266.88/-6.4|-276.09/-2.18|-278.98/3.05|-282.07/5.5|-280.92/10.53|-275.53/14.19</polystring>
+    </polyhotspot>
+    <polyhotspot title="Proxima Feria" id="Poly05" description="" target="_blank" url="https://www.youtube.com/shorts/OGypQWcwGZw">
+      <polystring>-144.03/-6.8|-124.99/-9.44|-130.35/-10.86|-150.14/-7.52</polystring>
+    </polyhotspot>
+    <polyhotspot title="Proxima Feria" id="Poly06" description="" target="_blank" url="https://www.youtube.com/shorts/OGypQWcwGZw">
+      <polystring>-49.6/-10.17|-55.59/-8.78|-38.35/-6.47|-32.7/-7.12</polystring>
+    </polyhotspot>
+    <polyhotspot title="JUGAR LOLA CHOT" id="Poly03" description="" target="_blank" url="https://maurocasarin.github.io/LOLA-shot/">
+      <polystring>-294.2/-1.15|-293.44/-15.35|-301.38/-15.57|-300.99/-1.09</polystring>
+    </polyhotspot>
+  </hotspots>
+  <media>
+    <image id="Element01" rotx="0.000" pan="-94.480" roty="0.000" fov="9.290" rotz="0.000" height="2451" tilt="12.750" width="2624" clickmode="1" handcursor="1" stretch="1.000">
+      <source url="media/LOLA PALUPULO A Izquierda_Log a Izquiera.png"/>
+    </image>
+    <image id="Element02" rotx="0.000" pan="-89.620" roty="0.000" fov="4.290" rotz="0.000" height="1920" tilt="3.760" width="1536" clickmode="1" handcursor="1" stretch="1.000">
+      <source url="media/Interior.jpg"/>
+    </image>
+    <image id="Element05" rotx="0.000" pan="-297.220" roty="0.000" fov="6.106" rotz="0.000" height="679" tilt="-7.800" width="330" clickmode="0" handcursor="0" stretch="1.000">
+      <source url="media/Jugar Lola Shot.png"/>
+    </image>
+    <image id="Element08" rotx="0.000" pan="-89.900" roty="0.000" fov="1.925" rotz="0.000" height="360" tilt="-5.620" width="360" clickmode="0" handcursor="0" stretch="1.000">
+      <source url="media/iconinsta.png"/>
+    </image>
+    <image id="Element09" rotx="0.000" pan="-130.570" roty="0.000" fov="5.065" rotz="0.000" height="2954" tilt="-8.150" width="2953" clickmode="0" handcursor="0" stretch="1.000">
+      <source url="media/DINO_Mesa de trabajo 1.png"/>
+    </image>
+    <image id="Element10" rotx="-5.000" pan="-44.750" roty="0.000" fov="2.920" rotz="6.000" height="50" tilt="-7.760" width="50" clickmode="0" handcursor="0" stretch="1.000">
+      <source url="media/lola.gif"/>
+    </image>
+    <video mode="3" pan="-356.300" rotz="0.000" roty="0.000" nodechangekeep="0" handcursor="1" width="1080" pansize="10.000" stretch="1.000" fov="15.860" startmutedmobile="1" rotx="0.000" field="90.000" height="1920" tilt="2.220" loop="1" ambientlevel="0.000" level="1.000" clickmode="2" tiltsize="10.000" id="Element03">
+      <source url="media/Lola Pista.mp4"/>
+    </video>
+    <video mode="3" pan="-215.880" rotz="0.000" roty="0.000" nodechangekeep="0" handcursor="1" width="1080" pansize="10.000" stretch="1.000" fov="17.670" startmutedmobile="1" rotx="0.000" field="90.000" height="1350" tilt="-0.380" loop="1" ambientlevel="0.000" level="1.000" clickmode="2" tiltsize="10.000" id="Element04">
+      <source url="media/Salta birras md.mp4"/>
+    </video>
+    <video mode="3" pan="165.740" rotz="0.000" roty="0.000" nodechangekeep="0" handcursor="0" width="496" pansize="10.000" stretch="1.000" fov="21.540" startmutedmobile="0" rotx="0.000" field="90.000" height="496" tilt="-0.950" loop="0" ambientlevel="0.000" level="1.000" clickmode="0" tiltsize="10.000" id="Element06">
+      <source url="media/patches1dino.mp4"/>
+    </video>
+    <video mode="3" pan="296.360" rotz="0.000" roty="0.000" nodechangekeep="0" handcursor="0" width="304" pansize="10.000" stretch="1.000" fov="12.810" startmutedmobile="0" rotx="0.000" field="90.000" height="304" tilt="0.250" loop="0" ambientlevel="0.000" level="1.000" clickmode="0" tiltsize="10.000" id="Element07">
+      <source url="media/Dino grande.mp4"/>
+    </video>
+    <video mode="3" pan="-147.930" rotz="0.000" roty="0.000" nodechangekeep="0" handcursor="0" width="336" pansize="10.000" stretch="1.000" fov="14.700" startmutedmobile="0" rotx="0.000" field="90.000" height="336" tilt="0.720" loop="0" ambientlevel="0.000" level="1.000" clickmode="0" tiltsize="10.000" id="Element11">
+      <source url="media/patch gorila.mp4"/>
+    </video>
+    <video mode="3" pan="-93.420" rotz="0.000" roty="0.000" nodechangekeep="0" handcursor="0" width="592" pansize="10.000" stretch="1.000" fov="25.390" startmutedmobile="0" rotx="0.000" field="90.000" height="592" tilt="12.700" loop="0" ambientlevel="0.000" level="1.000" clickmode="0" tiltsize="10.000" id="Element12">
+      <source url="media/Lola sup Patch.mp4"/>
+    </video>
+    <video mode="3" pan="-168.440" rotz="0.000" roty="0.000" nodechangekeep="0" handcursor="0" width="464" pansize="10.000" stretch="1.000" fov="20.180" startmutedmobile="0" rotx="0.000" field="90.000" height="464" tilt="1.920" loop="0" ambientlevel="0.000" level="1.000" clickmode="0" tiltsize="10.000" id="Element13">
+      <source url="media/Cartel lateral.mp4"/>
+    </video>
+    <sound nodechangekeep="0" tiltsize="10.000" id="Element14" pan="-91.850" field="90.000" pansize="10.000" tilt="-24.540" startmutedmobile="0" ambientlevel="0.800" mode="3" level="1.000" loop="0">
+      <source url="media/pajaros.mp3"/>
+    </sound>
+    <sound nodechangekeep="0" tiltsize="10.000" id="Element15" pan="-168.580" field="90.000" pansize="10.000" tilt="1.850" startmutedmobile="0" ambientlevel="0.000" mode="3" level="1.000" loop="0">
+      <source url="media/Rayos.mp3"/>
+    </sound>
+  </media>
+  <transition enabled="1" blendcolor="0x000000" zoomafteroutfov="20" zoomspeed="2" zoomin="0" zoomout="0" softedge="0" zoomoutpause="1" zoomfov="20" zoomafterinfov="90" blendtime="1" type="crossdissolve"/>
+  <flyintransition enabled="1" speed="2.00"/>
+  <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+  <control invertcontrol="1" contextfullscreen="1" sensitivity="8" contextvr="1" dblclickfullscreen="0" simulatemass="1" lockedkeyboard="0" rubberband="0" lockedkeyboardzoom="0" speedwheel="1" lockedwheel="0" hideabout="0" contextprojections="0" lockedmouse="0" invertwheel="0"/>
+</panorama>
